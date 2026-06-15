@@ -1,0 +1,105 @@
+Dominant Frequencies and Amplitudes
+===================================
+
+File: logfile_10.08.2025, 22.16.09.txt
+Data Quality: DISCONTINUOUS (105 gaps)
+-----------------------------------
+
+RESULTANT:
+1) 67.50 Hz | 0.001105 g | 0.010837 m/s^2 | HIGH
+2) 66.49 Hz | 0.000763 g | 0.007483 m/s^2 | MODERATE
+3) 67.00 Hz | 0.000634 g | 0.006215 m/s^2 | MODERATE
+4) 68.00 Hz | 0.000583 g | 0.005721 m/s^2 | MODERATE
+5) 65.99 Hz | 0.000540 g | 0.005298 m/s^2 | MODERATE
+
+X AXIS:
+1) 133.99 Hz | 0.000275 g | 0.002692 m/s^2 | MODERATE
+2) 100.24 Hz | 0.000273 g | 0.002678 m/s^2 | MODERATE
+3) 132.98 Hz | 0.000225 g | 0.002207 m/s^2 | MODERATE
+4) 99.74 Hz | 0.000211 g | 0.002068 m/s^2 | MODERATE
+5) 40.30 Hz | 0.000183 g | 0.001798 m/s^2 | MODERATE
+
+Y AXIS:
+1) 100.24 Hz | 0.000225 g | 0.002211 m/s^2 | MODERATE
+2) 99.74 Hz | 0.000200 g | 0.001961 m/s^2 | MODERATE
+3) 104.77 Hz | 0.000166 g | 0.001631 m/s^2 | MODERATE
+4) 107.29 Hz | 0.000160 g | 0.001565 m/s^2 | MODERATE
+5) 104.27 Hz | 0.000149 g | 0.001458 m/s^2 | MODERATE
+
+Z AXIS:
+1) 67.50 Hz | 0.001105 g | 0.010840 m/s^2 | HIGH
+2) 66.49 Hz | 0.000763 g | 0.007485 m/s^2 | MODERATE
+3) 67.00 Hz | 0.000634 g | 0.006214 m/s^2 | MODERATE
+4) 68.00 Hz | 0.000584 g | 0.005726 m/s^2 | MODERATE
+5) 65.99 Hz | 0.000540 g | 0.005298 m/s^2 | MODERATE
+
+===================================
+
+File: logfile_10.08.2025, 22.16.11.txt
+Data Quality: DISCONTINUOUS (110 gaps)
+-----------------------------------
+
+RESULTANT:
+1) 1.38 Hz | 0.000162 g | 0.001588 m/s^2 | MODERATE
+2) 81.93 Hz | 0.000127 g | 0.001247 m/s^2 | MODERATE
+3) 82.62 Hz | 0.000106 g | 0.001043 m/s^2 | MODERATE
+4) 99.83 Hz | 0.000088 g | 0.000858 m/s^2 | LOW
+5) 47.51 Hz | 0.000077 g | 0.000751 m/s^2 | LOW
+
+X AXIS:
+1) 17.21 Hz | 0.000181 g | 0.001779 m/s^2 | MODERATE
+2) 31.67 Hz | 0.000179 g | 0.001757 m/s^2 | MODERATE
+3) 30.98 Hz | 0.000179 g | 0.001753 m/s^2 | MODERATE
+4) 17.90 Hz | 0.000147 g | 0.001444 m/s^2 | MODERATE
+5) 81.93 Hz | 0.000140 g | 0.001377 m/s^2 | MODERATE
+
+Y AXIS:
+1) 34.43 Hz | 0.000093 g | 0.000912 m/s^2 | LOW
+2) 35.11 Hz | 0.000093 g | 0.000908 m/s^2 | LOW
+3) 83.31 Hz | 0.000085 g | 0.000837 m/s^2 | LOW
+4) 91.57 Hz | 0.000079 g | 0.000777 m/s^2 | LOW
+5) 86.75 Hz | 0.000070 g | 0.000690 m/s^2 | LOW
+
+Z AXIS:
+1) 1.38 Hz | 0.000161 g | 0.001578 m/s^2 | MODERATE
+2) 81.93 Hz | 0.000125 g | 0.001228 m/s^2 | MODERATE
+3) 82.62 Hz | 0.000113 g | 0.001104 m/s^2 | MODERATE
+4) 99.83 Hz | 0.000084 g | 0.000823 m/s^2 | LOW
+5) 47.51 Hz | 0.000079 g | 0.000778 m/s^2 | LOW
+
+===================================
+
+File: logfile_10.08.2025, 22.16.12.txt
+Data Quality: DISCONTINUOUS (123 gaps)
+-----------------------------------
+
+RESULTANT:
+1) 46.47 Hz | 0.000196 g | 0.001924 m/s^2 | MODERATE
+2) 1.52 Hz | 0.000164 g | 0.001612 m/s^2 | MODERATE
+3) 19.04 Hz | 0.000133 g | 0.001309 m/s^2 | MODERATE
+4) 50.28 Hz | 0.000126 g | 0.001239 m/s^2 | MODERATE
+5) 45.71 Hz | 0.000126 g | 0.001234 m/s^2 | MODERATE
+
+X AXIS:
+1) 99.79 Hz | 0.000134 g | 0.001310 m/s^2 | MODERATE
+2) 35.80 Hz | 0.000127 g | 0.001249 m/s^2 | MODERATE
+3) 36.57 Hz | 0.000118 g | 0.001154 m/s^2 | MODERATE
+4) 35.04 Hz | 0.000113 g | 0.001106 m/s^2 | MODERATE
+5) 83.03 Hz | 0.000102 g | 0.000996 m/s^2 | MODERATE
+
+Y AXIS:
+1) 46.47 Hz | 0.000195 g | 0.001912 m/s^2 | MODERATE
+2) 47.23 Hz | 0.000152 g | 0.001490 m/s^2 | MODERATE
+3) 39.61 Hz | 0.000139 g | 0.001361 m/s^2 | MODERATE
+4) 40.37 Hz | 0.000103 g | 0.001012 m/s^2 | MODERATE
+5) 31.99 Hz | 0.000101 g | 0.000992 m/s^2 | MODERATE
+
+Z AXIS:
+1) 46.47 Hz | 0.000192 g | 0.001880 m/s^2 | MODERATE
+2) 1.52 Hz | 0.000164 g | 0.001604 m/s^2 | MODERATE
+3) 19.04 Hz | 0.000133 g | 0.001309 m/s^2 | MODERATE
+4) 50.28 Hz | 0.000125 g | 0.001226 m/s^2 | MODERATE
+5) 45.71 Hz | 0.000121 g | 0.001183 m/s^2 | MODERATE
+
+===================================
+

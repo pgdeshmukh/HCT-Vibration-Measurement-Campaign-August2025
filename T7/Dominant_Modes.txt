@@ -1,0 +1,105 @@
+Dominant Frequencies and Amplitudes
+===================================
+
+File: logfile_09.08.2025, 09.21.01.txt
+Data Quality: GOOD
+-----------------------------------
+
+RESULTANT:
+1) 66.51 Hz | 0.000050 g | 0.000492 m/s^2 | LOW
+2) 66.52 Hz | 0.000034 g | 0.000332 m/s^2 | LOW
+3) 67.86 Hz | 0.000032 g | 0.000315 m/s^2 | LOW
+4) 67.84 Hz | 0.000032 g | 0.000314 m/s^2 | LOW
+5) 67.80 Hz | 0.000032 g | 0.000310 m/s^2 | LOW
+
+X AXIS:
+1) 99.73 Hz | 0.000034 g | 0.000334 m/s^2 | LOW
+2) 99.74 Hz | 0.000021 g | 0.000202 m/s^2 | LOW
+3) 542.28 Hz | 0.000013 g | 0.000130 m/s^2 | Noise Floor
+4) 99.72 Hz | 0.000013 g | 0.000124 m/s^2 | Noise Floor
+5) 542.29 Hz | 0.000012 g | 0.000118 m/s^2 | Noise Floor
+
+Y AXIS:
+1) 99.73 Hz | 0.000040 g | 0.000389 m/s^2 | LOW
+2) 99.74 Hz | 0.000027 g | 0.000266 m/s^2 | LOW
+3) 99.72 Hz | 0.000015 g | 0.000145 m/s^2 | Noise Floor
+4) 299.20 Hz | 0.000009 g | 0.000093 m/s^2 | Noise Floor
+5) 299.18 Hz | 0.000009 g | 0.000091 m/s^2 | Noise Floor
+
+Z AXIS:
+1) 66.51 Hz | 0.000050 g | 0.000491 m/s^2 | LOW
+2) 66.52 Hz | 0.000034 g | 0.000332 m/s^2 | LOW
+3) 67.86 Hz | 0.000032 g | 0.000315 m/s^2 | LOW
+4) 67.84 Hz | 0.000032 g | 0.000314 m/s^2 | LOW
+5) 67.80 Hz | 0.000032 g | 0.000310 m/s^2 | LOW
+
+===================================
+
+File: logfile_09.08.2025, 09.21.03.txt
+Data Quality: GOOD
+-----------------------------------
+
+RESULTANT:
+1) 18.88 Hz | 0.000015 g | 0.000150 m/s^2 | Noise Floor
+2) 18.87 Hz | 0.000014 g | 0.000137 m/s^2 | Noise Floor
+3) 187.34 Hz | 0.000012 g | 0.000122 m/s^2 | Noise Floor
+4) 187.35 Hz | 0.000010 g | 0.000100 m/s^2 | Noise Floor
+5) 18.86 Hz | 0.000010 g | 0.000096 m/s^2 | Noise Floor
+
+X AXIS:
+1) 17.31 Hz | 0.000025 g | 0.000248 m/s^2 | LOW
+2) 17.32 Hz | 0.000025 g | 0.000246 m/s^2 | LOW
+3) 17.30 Hz | 0.000024 g | 0.000235 m/s^2 | LOW
+4) 17.28 Hz | 0.000023 g | 0.000228 m/s^2 | LOW
+5) 17.29 Hz | 0.000023 g | 0.000228 m/s^2 | LOW
+
+Y AXIS:
+1) 99.74 Hz | 0.000019 g | 0.000183 m/s^2 | Noise Floor
+2) 99.73 Hz | 0.000015 g | 0.000150 m/s^2 | Noise Floor
+3) 48.77 Hz | 0.000012 g | 0.000118 m/s^2 | Noise Floor
+4) 18.87 Hz | 0.000011 g | 0.000109 m/s^2 | Noise Floor
+5) 48.78 Hz | 0.000010 g | 0.000100 m/s^2 | Noise Floor
+
+Z AXIS:
+1) 18.88 Hz | 0.000014 g | 0.000136 m/s^2 | Noise Floor
+2) 187.34 Hz | 0.000013 g | 0.000125 m/s^2 | Noise Floor
+3) 18.87 Hz | 0.000012 g | 0.000121 m/s^2 | Noise Floor
+4) 187.35 Hz | 0.000011 g | 0.000104 m/s^2 | Noise Floor
+5) 17.16 Hz | 0.000009 g | 0.000087 m/s^2 | Noise Floor
+
+===================================
+
+File: logfile_09.08.2025, 09.21.04.txt
+Data Quality: GOOD
+-----------------------------------
+
+RESULTANT:
+1) 59.30 Hz | 0.000014 g | 0.000134 m/s^2 | Noise Floor
+2) 59.14 Hz | 0.000013 g | 0.000128 m/s^2 | Noise Floor
+3) 58.77 Hz | 0.000012 g | 0.000120 m/s^2 | Noise Floor
+4) 59.15 Hz | 0.000012 g | 0.000119 m/s^2 | Noise Floor
+5) 498.67 Hz | 0.000012 g | 0.000119 m/s^2 | Noise Floor
+
+X AXIS:
+1) 270.60 Hz | 0.000019 g | 0.000188 m/s^2 | Noise Floor
+2) 270.61 Hz | 0.000018 g | 0.000177 m/s^2 | Noise Floor
+3) 270.59 Hz | 0.000018 g | 0.000175 m/s^2 | Noise Floor
+4) 272.23 Hz | 0.000017 g | 0.000167 m/s^2 | Noise Floor
+5) 270.62 Hz | 0.000017 g | 0.000162 m/s^2 | Noise Floor
+
+Y AXIS:
+1) 32.58 Hz | 0.000014 g | 0.000134 m/s^2 | Noise Floor
+2) 544.35 Hz | 0.000013 g | 0.000124 m/s^2 | Noise Floor
+3) 32.57 Hz | 0.000013 g | 0.000124 m/s^2 | Noise Floor
+4) 32.59 Hz | 0.000013 g | 0.000123 m/s^2 | Noise Floor
+5) 31.77 Hz | 0.000012 g | 0.000118 m/s^2 | Noise Floor
+
+Z AXIS:
+1) 59.30 Hz | 0.000014 g | 0.000135 m/s^2 | Noise Floor
+2) 59.14 Hz | 0.000013 g | 0.000130 m/s^2 | Noise Floor
+3) 58.77 Hz | 0.000012 g | 0.000122 m/s^2 | Noise Floor
+4) 59.15 Hz | 0.000012 g | 0.000121 m/s^2 | Noise Floor
+5) 498.67 Hz | 0.000012 g | 0.000120 m/s^2 | Noise Floor
+
+===================================
+
